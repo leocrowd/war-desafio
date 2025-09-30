@@ -45,8 +45,4 @@ Este projeto foi uma oportunidade para praticar e demonstrar conhecimento nos se
 * **Manipulação de Strings:** Uso de funções da biblioteca `<string.h>` como `strcpy` e `strcmp`.
 * **Boas Práticas:** Uso de `const` em parâmetros de funções para garantir que os dados não sejam alterados indevidamente.
 
----
 
-## 🚀 Como Executar o Projeto
-
-Para compilar e executar este projeto, você
